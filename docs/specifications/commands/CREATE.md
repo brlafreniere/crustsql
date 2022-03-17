@@ -1,0 +1,4 @@
+# CREATE
+
+- CREATE TABLE tbl_name
+- CREATE DATABASE db_name
